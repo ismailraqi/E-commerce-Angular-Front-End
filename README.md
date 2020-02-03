@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" font-size=60px>
   WORK IN PROGRESS :construction:
 </p>
 
@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 # Features
-![Screenshot 1](features.png)
+
 - Customize Home/Product(List/Detail) Page 
 - Filters by Tags, Size, Price etc
 - Searching and autocomplete with Elasticsearch
