@@ -1,8 +1,31 @@
-
+<p align="center">
+  WORK IN PROGRESS :construction:
+</p>
 
 # WatchStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+
+### What's included:
+
+- Angular 8+ & Typescript :heart:
+- Bootstrap 4+ & SCSS
+- Responsive layout
+- High resolution
+- Easy to customize :wrench:
+- User Authentication using email & password
+
+
+# Features
+![Screenshot 1](features.png)
+- Customize Home/Product(List/Detail) Page 
+- Filters by Tags, Size, Price etc
+- Searching and autocomplete with Elasticsearch
+- Add/update to cart
+- Chat Bot 
+- Admin dashboard
+
+
 
 ## Development server
 
@@ -34,5 +57,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Installation
 
 1. Clone This Repo with the following link `git clone https://github.com/ismailraqi/E-commerce-Angular-Front-End.git`
-2. inside project open new terminale and run the following line  `npm i` 
+2. inside project open new terminale and run the following line  `npm install` 
 3. It's finish !
