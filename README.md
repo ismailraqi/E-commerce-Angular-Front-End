@@ -1,3 +1,5 @@
+
+
 # WatchStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
@@ -25,3 +27,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Preview
+![Screenshot 1](home.png)
+![Screenshot 2](product.png)
+
+## Installation
+
+1. Clone This Repo with the following link `git clone https://github.com/ismailraqi/E-commerce-Angular-Front-End.git`
+2. inside project open new terminale and run the following line  `npm i` 
+3. It's finish !
