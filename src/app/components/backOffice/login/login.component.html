@@ -1,0 +1,24 @@
+<div class="row">
+    <div class="col-md-6 mx-auto mt-5 text-center">
+      <span class="badge badge-info">
+        <h1><i class="fa fa-lock"></i>Loging</h1>
+      </span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 mx-auto mt-3">
+
+      <form [formGroup]="loginForm" (ngSubmit)="OnSubmit()">
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input formControlName="email" id="email" type="text" class="form-control">
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input formControlName="password" id="password" type="text" class="form-control">
+        </div>
+        <button class="btn btn-info btn-block"><i class="fa fa-lock"></i>Loging</button>
+      </form>
+    </div>
+  </div>
+  

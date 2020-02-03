@@ -1,0 +1,23 @@
+<div class="container mt-3">
+  <div class="row">
+    <div class="col-sm">
+      <div class="card">
+        <div class="card-header bg-primary text-white text-uppercase">
+          <i class="fa fa-star"></i> Choose Your Brand
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-sm" *ngFor="let categorie of categories">
+              <div class="card">
+                <img class="card-img-top" [src]="categorie.CategorieIcon" alt="Card image cap">
+                <div class="card-body">
+                <h4 class="card-title "><a [routerLink]="['/home','category',categorie.ID]" title="View Product" href="#">{{categorie.CategorieName}}</a></h4>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
