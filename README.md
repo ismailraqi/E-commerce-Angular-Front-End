@@ -1,34 +1,34 @@
 <p align="center" font-size=60px>
-  WORK IN PROGRESS :construction:
+  WORK IN PROGRESS  :construction:  80%
 </p>
 
-# WatchStore
+# EcomStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) and ASP.NET WebAPI 
 
 ### What's included:
 
-- Angular 8+ & Typescript :heart:
+- Angular 8 & Typescript :heart:
 - Bootstrap 4+ & SCSS
 - Responsive layout
 - High resolution
 - Easy to customize :wrench:
 - User Authentication using email & password
+- Add Items To Cart
+- Compare System (You can compare two to three items before you bought them)
+- You can Add items to wishlist 
+- Filters System by Tags, Brand, Price etc
 
 
 # Features
-
-- Customize Home/Product(List/Detail) Page 
-- Filters by Tags, Size, Price etc
 - Searching and autocomplete with Elasticsearch
-- Add/update to cart
 - Chat Bot 
 - Admin dashboard
 
 
 ## Installation
 
-1. Clone This Repo with the following link `git clone https://github.com/ismailraqi/E-commerce-Angular-Front-End.git`
+1. Clone This Repo with the following link `git clone https://github.com/ismailraqi/`
 2. inside project open new terminale and run the following line  `npm install` 
 3. It's finish !
 
@@ -37,15 +37,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
 ## Preview
